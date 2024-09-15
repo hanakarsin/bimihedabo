@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://nenamamehi.pages.dev/sitemap.xml
